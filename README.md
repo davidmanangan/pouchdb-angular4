@@ -1,6 +1,6 @@
 # PouchDB, Angular 4, and Couchbase Example
 
-Example project for synchronizing documents between platforms and Couchbase with only Angular 2 and PouchDB.
+Example project for synchronizing documents between platforms and Couchbase with only Angular 4 and PouchDB.
 
 ## The Requirements
 
@@ -30,7 +30,7 @@ The project can be sampled by executing:
 ng serve
 ```
 
-The above command will serve the application at http://www.localhost:4200.
+The above command will serve the application at http://localhost:4200.
 
 ## Resources
 
