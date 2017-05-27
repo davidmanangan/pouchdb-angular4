@@ -1,4 +1,4 @@
-# PouchDB, Angular 2, and Couchbase Example
+# PouchDB, Angular 4, and Couchbase Example
 
 Example project for synchronizing documents between platforms and Couchbase with only Angular 2 and PouchDB.
 
@@ -7,14 +7,14 @@ Example project for synchronizing documents between platforms and Couchbase with
 This project depends on the following dependencies in order to be successful:
 
 * Node.js 4.0+
-* Angular 2 CLI
+* Angular 4 CLI
 * Couchbase Sync Gateway
 
-To develop Angular 2 applications you need the Angular CLI which is downloadable via the Node Package Manager (NPM) found in Node.js.  For synchronization at least one Couchbase Sync Gateway instance must be available.
+To develop Angular 4 applications you need the Angular CLI which is downloadable via the Node Package Manager (NPM) found in Node.js.  For synchronization at least one Couchbase Sync Gateway instance must be available.
 
 ## Installation and Configuration
 
-Download the project from GitHub and execute the following to download all of the Angular 2 project dependencies:
+Download the project from GitHub and execute the following to download all of the Angular 4 project dependencies:
 
 ```
 npm install
