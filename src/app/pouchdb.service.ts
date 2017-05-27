@@ -10,7 +10,7 @@ export class PouchDBService {
 
     public constructor() {
         if(!this.isInstantiated) {
-            this.database = new PouchDB("nraboy");
+            this.database = new PouchDB("dman");
             this.isInstantiated = true;
         }
     }
